@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
 <meta name="description" content="Halifax UK weather station and webcam">
 <meta name="keywords" content="Halifax UK, webcam,weather cam,weather station,weather alert">
-<meta name="author" content="Darron Mullen">
+<meta name="author" content="dazbobaby">
 </head>
 <html>
 <body bgcolor="#242424">
@@ -48,6 +48,4 @@ The total cost of the software is free, only the camera had to be paid for!
 Now for my PHP Code:</br> <a href="http://mess-hall.co.uk/viewtopic.php?f=75&t=7487&p=47121#p47121">The Mess-Hall forum</a>
 </p></center>
 <center></br>
-Another local webcam, this is from Heptonstall:</br>
-<div style="width:640px;height:480px;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;background:rgba(36,36,36,0.8);-webkit-box-shadow: #121212 10px 10px 10px;-moz-box-shadow: #121212 10px 10px 10px; box-shadow: #121212 10px 10px 10px;">
-<img src=http://icons.wunderground.com/webcamramdisk/h/e/Heptonstall/1/current.jpg></div>
+
