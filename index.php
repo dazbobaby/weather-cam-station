@@ -40,12 +40,4 @@
   echo "Relative humidity is ${relative_humidity} and the rainfall is currently at ${precip_today_string} in the past 24 hours\n";
 ?>
 
-<p style="text-shadow:1px 1px 1px rgba(168,168,168,1);font-weight:normal;color:#C0C0C0;border: 1px solid #FFFFFF;letter-spacing:1pt;word-spacing:2pt;font-size:14px;text-align:left;font-family:arial, helvetica, sans-serif;line-height:1;margin:15px;padding:23px;width:900px;">Ok so this is what I've got so far, Webcam: HP 2300 HD, it's a cheap webcam (as you can see) but it'll do for now, then I use <a href="https://www.ispyconnect.com/download.aspx">iSpy64</a> for grabbing an image from the webcam and uploading to my FTP server.
-
-Then I use <a href="http://wunderground.com">Weather underground</a> to fetch the local data.</br>
-</br>
-The total cost of the software is free, only the camera had to be paid for!
-Now for my PHP Code:</br> <a href="http://mess-hall.co.uk/viewtopic.php?f=75&t=7487&p=47121#p47121">The Mess-Hall forum</a>
-</p></center>
-<center></br>
 
